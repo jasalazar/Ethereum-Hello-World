@@ -2,4 +2,4 @@
 chaindata/*
 
 # I want to keep the folder
-!somefolder/.gitkeep
+!chaindata/.gitkeep
